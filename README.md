@@ -1,2 +1,2 @@
 # 3years
-understand things and learn the how code your self.
+understand things and learn how tocode your self.
